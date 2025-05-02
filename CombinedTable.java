@@ -1,4 +1,5 @@
-public class CombinedTable {
+public class CombinedTable 
+{
     private SingleTable one;
     private SingleTable two;
 

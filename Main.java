@@ -1,4 +1,5 @@
-public class Main {
+public class Main 
+{
     public static void main(String[] args) 
     {
         SingleTable t1 = new SingleTable(4, 60, 74);

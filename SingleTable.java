@@ -1,4 +1,5 @@
-public class SingleTable {
+public class SingleTable 
+{
     private int seats;
     private double viewQuality;
     private int height;
